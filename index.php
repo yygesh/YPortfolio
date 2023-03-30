@@ -609,7 +609,6 @@
                           <h4><strong>Find Me</strong></h4>
                           <hr>
                             <div class="col-md-12 col-xs-12 map-responsive">
-                            <iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/search?q=Chhantyal%20Kulain%20Temple%2C%20Dhamja%2C%20Nepal&key=AIzaSyCBYbwAw8Z5w9X_Kwejn-xGC__uweZ5YGo" allowfullscreen></iframe>
                             </div>
                             <div class="contact_address margin-top-40">
                                 <span>Kathekhola-3 Dhamja Baglung</span>
