@@ -11,6 +11,7 @@ html, body {
     margin-right: 0;
     font-family: 'robotolight';
     font-weight: 300;
+    scroll-behavior: smooth;
 }
 
 img {
@@ -2167,8 +2168,8 @@ section {
 
     .intro {
         background-color:#D7D7D7 ;
-  background-image: none;
-  height: 70%;
+        background-image: none;
+        height: 60%;
 }
 
 }
